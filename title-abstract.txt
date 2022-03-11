@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<WiFire Clustering Model>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<In 2020, the Congressional Research Service released statistics detailing how 59 wildfires burned over 10 million acres, destroying everything in its path as well as taking lives. For our project, we are focusing on preventing future wildfires through analyzing and predicting the fuels that make up certain areas, by using these labels we would be able to predict the flammability of the locations. In order to create the labels as well as predicting the flammability, we will be using the WIFIRE team’s data which uses new AI techniques, namely synthetic dataset creation, to generate a three-dimensional fuel map to the entire United States that can be used for any simulations, or predictions.
+>
